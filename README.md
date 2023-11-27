@@ -18,13 +18,13 @@ Our implementation consists of 2 steps.<br>
 ### Run 1-shot and 5-shot
 1. modify the path to your feature path. <br>
 2. run the Scripts_shot1.py & Scripts_shot5.py for 1-shot and 5-shot, respectively. <br>
-Specifically, for 1-shot
+Specifically, for 1-shot,
  ```
- python Scripts_shot1.py -- feature_path your feature_path
+ python Scripts_shot1.py --feature_path your feature_path
  ```
- for 5-shot
+ for 5-shot,
  ```
- python Scripts_shot5.py -- feature_path your feature_path
+ python Scripts_shot5.py --feature_path your feature_path
  ```
 
 <div align=center>
