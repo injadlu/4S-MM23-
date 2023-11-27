@@ -1,4 +1,4 @@
-# 4S for few-shot
+# 4S: Semantic-based Selection Synthesis and Supervision for few-shot learning
 Implementation of the ACM MM 2023 paper: Semantic-based Selection Synthesis and Supervision for few-shot learning
 
 ## Introduction
