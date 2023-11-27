@@ -8,3 +8,14 @@ Implementation of the ACM MM 2023 paper: Semantic-based Selection Synthesis and 
 </div>
 
 ## Get Started
+
+## References
+```
+@inproceedings{lu2023semantic,
+  title={Semantic-based Selection, Synthesis, and Supervision for Few-shot Learning},
+  author={Lu, Jinda and Wang, Shuo and Zhang, Xinyu and Hao, Yanbin and He, Xiangnan},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={3569--3578},
+  year={2023}
+}
+```
