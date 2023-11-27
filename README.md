@@ -8,6 +8,9 @@ Implementation of the ACM MM 2023 paper: [Semantic-based Selection Synthesis and
 </div>
 
 ## Get Started
+<div align=center>
+  <img src="https://github.com/injadlu/4S-MM23-/blob/main/Overview.svg">
+</div>
 
 ## References
 ```
