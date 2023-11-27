@@ -8,9 +8,32 @@ Implementation of the ACM MM 2023 paper: [Semantic-based Selection Synthesis and
 </div>
 
 ## Get Started
+Our implementation consists of 2 steps.<br>
+### Extract feature
+1. download existing works with pre-trained backbone. <br>
+2. extract base and novel features to your feature path. <br>
+ ```
+ python extract_feature.py
+ ```
+### Run 1-shot and 5-shot
+1. modify the path to your feature path. <br>
+2. run the Scripts_shot1.py & Scripts_shot5.py for 1-shot and 5-shot, respectively. <br>
+Specifically, for 1-shot
+ ```
+ python Scripts_shot1.py -- feature_path your feature_path
+ ```
+ for 5-shot
+ ```
+ python Scripts_shot5.py -- feature_path your feature_path
+ ```
+
 <div align=center>
   <img src="https://github.com/injadlu/4S-MM23-/blob/main/Overview.svg">
 </div>
+An overview of our semantic-based selection, synthesis, and supervision method.
+
+## contact:
+**Any problems please contact me at jackie64321@gmail.com**
 
 ## References
 ```
