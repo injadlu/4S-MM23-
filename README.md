@@ -26,7 +26,7 @@ Specifically, for 1-shot,
  ```
  python Scripts_shot5.py --feature_path your feature_path
  ```
-
+for word embedding, please refer to my another [page](https://github.com/injadlu/few-shot-word2vec). <br>
 <div align=center>
   <img src="https://github.com/injadlu/4S-MM23-/blob/main/Overview.svg">
 </div>
